@@ -4,4 +4,4 @@
 
 Rule List URL:
 
-https://raw.githubusercontent.com/notgurev/switchyomega-russia-rules/main/russia.txt
+https://raw.githubusercontent.com/Glip/switchy-list/refs/heads/main/list
