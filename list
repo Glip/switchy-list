@@ -1,0 +1,32 @@
+[SwitchyOmega Conditions]
+; Require: SwitchyOmega >= 2.3.2
+
+
+; OpenAI, ChatGPT
+*.oaistatic.com
+*.chatgpt.com
+*.openai.com
+*.oaiusercontent.com
+
+; Torrent trackers
+*.rutracker.org
+
+; YouTube
+*.ggpht.com
+*.youtube.com
+*.googlevideo.com
+*.ytimg.com
+l.google.com
+play.google.com
+youtubei.googleapis.com
+*.youtu.be
+nhacmp3youtube.com
+googleusercontent.com
+
+;Ragnarok Online
+ratemyserver.net
+*.ratemyserver.net
+
+;SteamDB
+steamdb.info
+*.steamdb.info
