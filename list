@@ -1,7 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
 
-
 ; OpenAI, ChatGPT
 *.oaistatic.com
 *.chatgpt.com
@@ -31,3 +30,9 @@ ratemyserver.net
 ;SteamDB
 steamdb.info
 *.steamdb.info
+
+;DeepL
+*.deepl.com
+deepl.com
+s.deepl.com
+dict.deepl.com
