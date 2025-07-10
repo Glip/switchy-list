@@ -27,9 +27,11 @@ sponsor.ajay.app
 ratemyserver.net
 *.ratemyserver.net
 
-;SteamDB
+;Steam
 steamdb.info
 *.steamdb.info
+steamstat.us
+*.steamstat.us
 
 ;DeepL
 *.deepl.com
