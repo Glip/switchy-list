@@ -9,6 +9,7 @@
 
 ; Torrent trackers
 *.rutracker.org
+*.rutracker.cc
 
 ; YouTube
 *.ggpht.com
@@ -44,3 +45,9 @@ lmstudio.ai
 *.lmstudio.ai
 *.charhub.io
 *.chub.ai
+
+;Twitch
+*.betterttv.net
+
+#3d-printing
+*.cults3d.com
