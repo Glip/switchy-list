@@ -23,10 +23,16 @@ youtubei.googleapis.com
 nhacmp3youtube.com
 googleusercontent.com
 sponsor.ajay.app
+*.googletagmanager.com
+*.gstatic.com
 
 ;Ragnarok Online
 ratemyserver.net
 *.ratemyserver.net
+arcadia-online.org
+*.arcadia-online.org
+*.herc.ws
+*.rathena.org
 
 ;Steam
 steamdb.info
@@ -49,5 +55,10 @@ lmstudio.ai
 ;Twitch
 *.betterttv.net
 
-#3d-printing
+;3d-printing
 *.cults3d.com
+
+;other
+*.deviantart.net
+*.redditspace.com
+*.redd.it
