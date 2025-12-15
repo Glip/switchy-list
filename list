@@ -25,6 +25,8 @@ googleusercontent.com
 sponsor.ajay.app
 *.googletagmanager.com
 *.gstatic.com
+*.google.com
+*.youtube-nocookie.com
 
 ;Ragnarok Online
 ratemyserver.net
@@ -33,6 +35,14 @@ arcadia-online.org
 *.arcadia-online.org
 *.herc.ws
 *.rathena.org
+*.roabyss.com
+*.irowiki.org
+
+;ROX
+*.roxpedia.com
+
+;servers
+*.ragezone.com
 
 ;Steam
 steamdb.info
@@ -55,8 +65,10 @@ lmstudio.ai
 ;Twitch
 *.betterttv.net
 
-;3d-printing
+;3d-printing and laser
 *.cults3d.com
+*.cuttingpaths.com
+*.3axis.co
 
 ;other
 *.deviantart.net
