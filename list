@@ -23,11 +23,27 @@ youtubei.googleapis.com
 nhacmp3youtube.com
 googleusercontent.com
 sponsor.ajay.app
+*.googletagmanager.com
+*.gstatic.com
+*.google.com
+*.youtube-nocookie.com
 
 ;Ragnarok Online
 ratemyserver.net
 *.ratemyserver.net
 *.gamewith.jp
+arcadia-online.org
+*.arcadia-online.org
+*.herc.ws
+*.rathena.org
+*.roabyss.com
+*.irowiki.org
+
+;ROX
+*.roxpedia.com
+
+;servers
+*.ragezone.com
 
 ;Steam
 steamdb.info
@@ -47,14 +63,17 @@ lmstudio.ai
 *.charhub.io
 *.chub.ai
 *.catbox.moe
+*.comfy.org
 
 ;Twitch
 *.betterttv.net
 
-#3d-printing
+;3d-printing and laser
 *.cults3d.com
 *.tencent.com
 3d.hunyuan.tencent.com
+*.cuttingpaths.com
+*.3axis.co
 
 ;Added domains
 *.telesco.pe
@@ -66,3 +85,8 @@ redgifs.com
 *.myanimelist.net
 *.t.me
 *.friendlyelec.com
+
+;other
+*.deviantart.net
+*.redditspace.com
+*.redd.it
