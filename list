@@ -10,6 +10,7 @@
 ; Torrent trackers
 *.rutracker.org
 *.rutracker.cc
+*.rutracker.net
 
 ; YouTube
 *.ggpht.com
@@ -27,6 +28,7 @@ sponsor.ajay.app
 *.gstatic.com
 *.google.com
 *.youtube-nocookie.com
+*.google-analytics.com
 
 ;Ragnarok Online
 ratemyserver.net
@@ -90,3 +92,5 @@ redgifs.com
 *.deviantart.net
 *.redditspace.com
 *.redd.it
+*.xdaimages.com
+*.qq.com
