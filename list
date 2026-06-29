@@ -31,10 +31,8 @@ sponsor.ajay.app
 *.google-analytics.com
 
 ;Ragnarok Online
-ratemyserver.net
 *.ratemyserver.net
 *.gamewith.jp
-arcadia-online.org
 *.arcadia-online.org
 *.herc.ws
 *.rathena.org
@@ -48,29 +46,71 @@ arcadia-online.org
 *.ragezone.com
 
 ;Steam
-steamdb.info
 *.steamdb.info
-steamstat.us
 *.steamstat.us
 
 ;DeepL
 *.deepl.com
-deepl.com
-s.deepl.com
-dict.deepl.com
 
 ;neuro
-lmstudio.ai
 *.lmstudio.ai
 *.charhub.io
 *.chub.ai
 *.catbox.moe
 *.comfy.org
+*.civitai.com
+*.civitai.red
+*.midjourney.com
+*.nvidia.com
+*.runpod.io
+*.runpod.net
 *.postimg.cc
 *.botbooru.com
 
 ;Twitch
 *.betterttv.net
+
+;Tabletop RPG
+*.roll20.net
+*.cdn.roll20.net
+*.d20.io
+*.d20pfsrd.com
+*.inkarnate.com
+
+;Social and communications
+*.facebook.com
+*.linkedin.com
+*.licdn.com
+*.slack-edge.com
+*.slack-imgs.com
+*.chime.aws
+
+;Payments
+*.paypal.com
+*.stripe.com
+
+;Dev and cloud services
+*.akamaihd.net
+*.beget.tech
+*.bubble.io
+*.cloudflare.com
+*.courier.io
+*.easystaff.io
+*.fontawesome.com
+*.hubapi.com
+*.netlify.app
+*.amazonaws.com
+*.supabase.co
+*.typekit.net
+
+;Analytics and marketing
+*.browser-intake-datadoghq.com
+*.clerk.com
+*.doubleclick.net
+*.hotjar.com
+*.hs-scripts.com
+*.refiner.io
+*.visualwebsiteoptimizer.com
 
 ;3d-printing and laser
 *.cults3d.com
@@ -83,7 +123,6 @@ lmstudio.ai
 *.telesco.pe
 *.telegram.org
 *.redgifs.com
-redgifs.com
 *.eveuniversity.org
 *.uokit.com
 *.myanimelist.net
@@ -96,3 +135,6 @@ redgifs.com
 *.redd.it
 *.xdaimages.com
 *.qq.com
+*.emojidb.org
+*.joyreactor.cc
+
