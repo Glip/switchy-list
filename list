@@ -33,6 +33,7 @@ sponsor.ajay.app
 ;Ragnarok Online
 *.ratemyserver.net
 *.gamewith.jp
+*.ragnaplace.com
 *.arcadia-online.org
 *.herc.ws
 *.rathena.org
@@ -62,10 +63,15 @@ sponsor.ajay.app
 *.civitai.red
 *.midjourney.com
 *.nvidia.com
+*.openrouter.ai
 *.runpod.io
 *.runpod.net
 *.postimg.cc
 *.botbooru.com
+
+;Media and streaming
+*.scdn.co
+*.spotify.com
 
 ;Twitch
 *.betterttv.net
@@ -75,10 +81,12 @@ sponsor.ajay.app
 *.cdn.roll20.net
 *.d20.io
 *.d20pfsrd.com
+*.enterumd20.ru
 *.inkarnate.com
 
 ;Social and communications
 *.facebook.com
+*.fbcdn.net
 *.linkedin.com
 *.licdn.com
 *.slack-edge.com
@@ -95,10 +103,13 @@ sponsor.ajay.app
 *.bubble.io
 *.cloudflare.com
 *.courier.io
+*.cursor.com
+*.datacat.run
 *.easystaff.io
 *.fontawesome.com
 *.hubapi.com
 *.netlify.app
+*.portainer.io
 *.amazonaws.com
 *.supabase.co
 *.typekit.net
@@ -131,9 +142,13 @@ sponsor.ajay.app
 
 ;other
 *.deviantart.net
+*.reddit.com
 *.redditspace.com
 *.redd.it
+*.redditstatic.com
+*.redditmedia.com
 *.xdaimages.com
+*.gamingph.com
 *.qq.com
 *.emojidb.org
 *.joyreactor.cc
